@@ -4,3 +4,6 @@
 [submodule "camilla"]
 	path = camilla
 	url = https://github.com/CamillaMem/wget.git
+[submodule "lorenzo"]
+	path = lorenzo
+	url = https://github.com/LorenzoCarletti/MorelloPureCapPorts
