@@ -1,0 +1,3 @@
+[submodule "mariano/Device_Tree_Verification"]
+	path = mariano/Device_Tree_Verification
+	url = git@github.com:marianomarciello/Device_Tree_Verification.git
